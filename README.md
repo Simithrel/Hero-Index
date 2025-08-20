@@ -39,7 +39,9 @@ The app displays hero stats, affiliations, and related details.
 
 ##  Setup
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/HeroIndex.git
-   cd HeroIndex
+1. Install dependices, (npm install)
+
+2. Start the app, (npx expo start -c) -c starts the application fresh and clears any cached information
+
+Currently only the web version and the android version function but I do plan to impliment functionality for a IOS version later on. 
+
